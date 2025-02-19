@@ -1,0 +1,2 @@
+Q2: What Field could data science be applied to? Give an Example.
+Answer: Industrial Manufacturing
